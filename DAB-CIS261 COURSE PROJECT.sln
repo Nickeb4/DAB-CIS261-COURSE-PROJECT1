@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DAB-CIS261 COURSE PROJECT", "DAB-CIS261 COURSE PROJECT.pyproj", "{2B22C5A3-3013-4507-BB23-E7C7F06ECEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B22C5A3-3013-4507-BB23-E7C7F06ECEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B22C5A3-3013-4507-BB23-E7C7F06ECEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B55A14-1370-4BEF-85F4-7009ECEE50B2}
+	EndGlobalSection
+EndGlobal
